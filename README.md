@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋🏻‍♀️, I'm Mercy Shyu</h1>
-<h3 align="center">A passionate frontend developer from Spain (Madrid 📍 Málaga)</h3>
+<h3 align="center">A passionate frontend developer based in Spain (Madrid 📍 Málaga)</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgracesb" alt="mgracesb" /> </p>
 
 - 🔭 I’m currently working on [my-portfolio](https://github.com/mgracesb/my-portfolio).
