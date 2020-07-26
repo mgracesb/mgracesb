@@ -28,7 +28,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mgracesb&show_icons=true" alt="mgracesb" /> </p>
 
 <p align="center">
-<a href="https://dev.to/@mgracesb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@mgracesb" height="20" width="20" /></a>
-<a href="https://twitter.com/mercyshyu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mercyshyu" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/mgraceshyubarcel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mgraceshyubarcel" height="20" width="20" /></a>
+<a href="https://twitter.com/mercyshyu" target="blank"><img align="center"src="https://img.icons8.com/nolan/64/twitter.png" alt="mercyshyu" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/mgraceshyubarcel" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/linkedin-circled.png" alt="mgraceshyubarcel" height="50" width="50" /></a>
 </p>
