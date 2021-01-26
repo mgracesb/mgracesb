@@ -2,11 +2,7 @@
 <h3 align="center">A passionate frontend developer based in Spain (Madrid 📍 Málaga)</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgracesb" alt="mgracesb" /> </p>
 
-- 🔭 I’m currently working on [my-portfolio](https://github.com/mgracesb/my-portfolio).
-
-- 👯 I’m looking to collaborate on **any React projects**.
-
-- 🤔 I’m looking for help with **job hunt**.
+- 🔭 I’m currently part of the awesome Wossom team.
 
 - 👩🏻‍💻 All of my projects are available at: [https://github.com/mgracesb?tab=repositories](https://github.com/mgracesb?tab=repositories).
 
