@@ -1,8 +1,8 @@
 <h1 align="center">Hi 🙋🏻‍♀️, I'm Mercy Shyu</h1>
-<h3 align="center">A passionate frontend developer based in Spain (Madrid 📍 Málaga)</h3>
+<h3 align="center">A passionate frontend developer based in Spain (📍 currently in Madrid)</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgracesb" alt="mgracesb" /> </p>
 
-- 🔭 I’m currently part of the awesome Wossom team.
+- 🔭 I’m currently part of the awesome ☠️Wossom☠️ team.
 
 - 👩🏻‍💻 All of my personal projects are available at: [https://github.com/mgracesb?tab=repositories](https://github.com/mgracesb?tab=repositories).
 
