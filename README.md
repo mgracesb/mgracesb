@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently part of the awesome Wossom team.
 
-- 👩🏻‍💻 All of my projects are available at: [https://github.com/mgracesb?tab=repositories](https://github.com/mgracesb?tab=repositories).
+- 👩🏻‍💻 All of my personal projects are available at: [https://github.com/mgracesb?tab=repositories](https://github.com/mgracesb?tab=repositories).
 
 - 📫 How to reach me: **mgrace.shyu@gmail.com**.
 
