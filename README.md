@@ -6,8 +6,6 @@
 
 - 👩🏻‍💻 All of my personal projects are available at: [https://github.com/mgracesb?tab=repositories](https://github.com/mgracesb?tab=repositories).
 
-- 📫 How to reach me: **mgrace.shyu@gmail.com**.
-
 - ⚡ Fun fact: **I am a 🐼**.
 <br>
 <p align="center">
