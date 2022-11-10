@@ -6,7 +6,7 @@
 
 - 👩🏻‍💻 All of my personal projects are available at: [https://github.com/mgracesb?tab=repositories](https://github.com/mgracesb?tab=repositories).
 
-- ⚡ Fun fact: **I am a 🐼**.
+- ⚡ My spirit animal is **the 🐼**.
 <br>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5.png"alt="html5" width="30" height="30"/>
