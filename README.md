@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer based in Spain (📍 currently in Madrid)</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgracesb" alt="mgracesb" /> </p>
 
-- 🔭 I’m currently part of the awesome Secture team.
+- 🔭 I’m currently part of an awesome cibersecurity company team called Mollitiam industries.
 
 - 👩🏻‍💻 All of my personal projects are available at: [https://github.com/mgracesb?tab=repositories](https://github.com/mgracesb?tab=repositories).
 
